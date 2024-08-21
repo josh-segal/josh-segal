@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joshua Segal
 
-A software and ML engineer passionate about utilizing data creatively. I am currently leading development of a CV pipeline for instance segmentation in neuroimaging at [The Garner Lab](https://www.garnerlab.hms.harvard.edu/), Harvard Medical School. Previously I have worked on ETL pipelines for a nation-wide non-profit organization. I am also pursuing a B.S. in Computer Science with a concentration on Artifical Intelligence and a minor in Mathematics.
+A software and ML engineer passionate about utilizing data creatively. I am currently leading development of a CV pipeline for instance segmentation in neuroimaging at [The Garner Lab](https://www.garnerlab.hms.harvard.edu/), Harvard Medical School. Previously I have worked on ETL pipelines for a nationwide non-profit organization. I am also pursuing a B.S. in Computer Science with a concentration on Artifical Intelligence and a minor in Mathematics.
 
 <!---⚡ Fun fact: I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 💡 I'm interested in all things data: Machine Learning and Data Science, 
