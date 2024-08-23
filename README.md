@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joshua Segal
 
-A software and ML engineer passionate about utilizing data creatively. I am currently leading development of ML in neuroimaging at [The Garner Lab](https://www.garnerlab.hms.harvard.edu/), Harvard Medical School. Previously I have worked on ETL pipelines for a nationwide non-profit organization. I am also pursuing a B.S. in Computer Science with a concentration on Artifical Intelligence and a minor in Mathematics.
+A software and ML engineer passionate about utilizing data creatively. I am currently leading development of ML in neuroimaging at [The Garner Lab](https://www.garnerlab.hms.harvard.edu/), Harvard Medical School. Previously I have worked on ETL pipelines for a nationwide non-profit organization and built my own full stack [web-app](https://tourist-412606.uk.r.appspot.com/). I am also pursuing a B.S. in Computer Science with a concentration on Artifical Intelligence and a minor in Mathematics.
 <!--
 
 Hi there 👋 I'm Thomas George Thomas,
