@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joshua Segal
 
-A software and ML engineer passionate about solving technical problems creatively. Currently, I am building the future of roommate and apartment search at [HouseFly AI](https://www.houseflyai.com/). Previously I built a full-stack desktop app for lightning fast ML-powered data analysis at [The Garner Lab](https://www.garnerlab.hms.harvard.edu/), Harvard Medical School. In addition, I am pursuing a B.S. in Computer Science with a concentration on Artifical Intelligence and a minor in Mathematics. View my full portfolio [here](https://joshuasegal.super.site/)
+A software and ML engineer passionate about solving technical problems creatively. Currently, I am building the future of roommate and apartment search at [HouseFly AI](https://www.houseflyai.com/). Previously I built a full-stack desktop app for lightning fast ML-powered data analysis at [The Garner Lab](https://www.garnerlab.hms.harvard.edu/), Harvard Medical School. In addition, I am pursuing a B.S. in Computer Science with a concentration on Artifical Intelligence and a minor in Mathematics. View my full portfolio [here](https://personal-website-josh-segals-projects.vercel.app/)
 <!--
 
 Hi there 👋 I'm Thomas George Thomas,
