@@ -1,5 +1,5 @@
 # Joshua Segal
-Passionate software engineer with experience building scalable web applications and AI-powered solutions across industrial, real estate, and research domains.
+Passionate software engineer with experience building scalable web applications and AI-powered solutions across research, real estate, and manufacturing domains.
 
 ## 🚀 Current Projects
 - **Warehouse Management System** - Building a comprehensive WMS web application from the ground up @ [Via Separations](https://viaseparations.com/)
