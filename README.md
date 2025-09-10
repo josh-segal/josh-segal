@@ -9,7 +9,10 @@ Passionate software engineer with experience building scalable web applications 
 - **ML-Powered Data Analysis Platform** - Built ML-powered data analysis desktop app and model training framework for neuroscience research @ [Harvard Research Lab](https://www.garnerlab.hms.harvard.edu/)
 
 ## 🎓 Education
-**B.S. Computer Science** | AI Concentration | Mathematics Minor  
+**Northeastern University** 
+
+BS Computer Science, AI & Mathematics Concentrations
+
 *Expected May 2026*
 
 ## 🔗 Links
