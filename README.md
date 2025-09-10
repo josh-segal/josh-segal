@@ -1,4 +1,3 @@
-# Joshua Segal
 Passionate software engineer with experience building scalable web applications and AI-powered solutions across research, real estate, and manufacturing domains.
 
 ## 🚀 Current Projects
