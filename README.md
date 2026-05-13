@@ -1,21 +1,23 @@
-Passionate software engineer with experience building scalable web applications and AI-powered solutions across research, real estate, and manufacturing domains.
+## Hi, I'm Josh 👋
 
-## 🚀 Current Projects
-- **Warehouse Management System** - Building a comprehensive WMS web application from the ground up @ [Via Separations](https://viaseparations.com/)
-- **Real Estate AI Solutions** - Developing AI-enabled software for the real estate industry through multiple ventures
+Member of Technical Staff @ [CloudCruise](https://cloudcruise.com/), building browser automation
+infrastructure.
 
-## 📈 Past Projects
-- **Agentic AI SMS Assistant** - Developed SMS agent for [Da Vinci Gelato](https://www.davincigelatowaffle.com/) that learns from manager responses to automate common employee &rarr; staff inquiries
-- **ML-Powered Data Analysis Platform** - Built ML-powered data analysis desktop app and model training framework for neuroscience research @ [Harvard Research Lab](https://www.garnerlab.hms.harvard.edu/)
+Currently tinkering on
+**[Claudeship](https://github.com/josh-segal/claudeship)**, a multi-agent Claude
+harness for macOS and Linux.
 
-## 🎓 Education
-**Northeastern University** 
+BS Computer Science + Artificial Intelligence @ Northeastern
 
-BS Computer Science, AI & Mathematics Concentrations
+### Some Reading I Love
+- all paul graham essays, [this one in
+college](https://paulgraham.com/lesson.html)
+- [essay from the first philosopher at Google
+DeepMind](https://www.polytropolis.com/p/behaviourisms-revenge)
+- [there are two hard things in computer science
+joke](https://martinfowler.com/bliki/TwoHardThings.html)
 
-*Expected May 2026*
-
-## 🔗 Links
-[portfolio](https://www.joshuasegal.dev/)
-
-[linkedin](https://www.linkedin.com/in/joshua-francis-segal/)
+### My Links
+[website](https://www.joshuasegal.dev/) ·
+[linkedin](https://www.linkedin.com/in/joshua-francis-segal/) ·
+[x](https://x.com/JoshuaSega1)
